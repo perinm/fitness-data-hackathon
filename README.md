@@ -25,3 +25,4 @@ If you want to use this dataset for self study, classroom or whatever you want t
 Also, feel free to follow me on [Polar Flow](https://flow.polar.com/training/profiles/3142224), [Strava](https://www.strava.com/athletes/9485255) and [Instagram (@mendi_km)](https://instagram.com/mendi_km). You may search for some of these sessions on these platforms to compare your results.
 
 Good luck on the challenge you have been assigned!
+# fitness-data-hackathon
